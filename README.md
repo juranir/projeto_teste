@@ -1,2 +1,3 @@
-# projeto_teste
-projeto de testes para o projeto original 
+# trabalho_Juranir
+Trabalho referente à disciplina Tópicos Integradores II
+  
